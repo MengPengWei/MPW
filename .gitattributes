@@ -1,0 +1,2 @@
+build/NO_QGSP_BIC_HP.txt filter=lfs diff=lfs merge=lfs -text
+build/1.txt filter=lfs diff=lfs merge=lfs -text
