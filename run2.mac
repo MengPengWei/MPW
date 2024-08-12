@@ -1,0 +1,24 @@
+/run/initialize  
+/tracking/verbose 0  
+/control/verbose 0  
+/run/verbose 0  
+
+/gun/particle ion  
+/gun/ion 55 137 0 0  
+/run/beamOn 2294 
+
+/gun/particle ion  
+/gun/ion 55 134 0 0  
+/run/beamOn 14854  
+
+/gun/particle ion  
+/gun/ion 27 60 0 0  
+/run/beamOn 7171  
+
+/gun/particle ion  
+/gun/ion 27 58 0 0  
+/run/beamOn 201351  
+
+/gun/particle ion  
+/gun/ion 25 54 0 0  
+/run/beamOn 368175  
